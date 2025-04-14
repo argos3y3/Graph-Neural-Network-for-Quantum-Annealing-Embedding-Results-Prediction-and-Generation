@@ -1,0 +1,6 @@
+The code directory contains code.ipynb file with all code and execution. The same directory contains binaries 
+for weights of trained models as long as datasets necessary to run the code. 
+
+To access full code directory with also datasets included follow this link:
+
+https://drive.google.com/drive/folders/1i-N9O7NiASnlIWPBIX51XHeDy4t224Ab?usp=sharing
